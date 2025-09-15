@@ -1,2 +1,2 @@
 # PalineLauncher
-Paline Launcher项目开发储存库
+The PalineLauncher project is developed and maintained by Tian Nuomi from China! The project is a Minecraft third-party launcher!
