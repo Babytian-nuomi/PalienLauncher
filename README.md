@@ -4,9 +4,9 @@ The PalienLauncher project is developed and maintained by Tian Nuomi from China!
 
 ## 功能特性
 
-- 功能1
-- 功能2
-- 功能3
+- 账户
+- 启动方式
+- 控件
 
 ## 安装
 
