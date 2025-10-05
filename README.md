@@ -11,6 +11,6 @@ The PalienLauncher project is developed and maintained by Nuomi from China! The 
 ## 安装
 
 ```bash
-git clone https://github.com/Babytian-nuomi/PalienLauncher.git
+git clone https://github.com/NuoMi5201314/PalienLauncher.git
 cd PalienLauncher
 npm install
