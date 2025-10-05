@@ -6,8 +6,10 @@ The PalienLauncher project is developed and maintained by Nuomi from China! The 
 
 - 账户
 - 启动方式
-- 控件
-
+- 控制方式
+- 渲染器
+- 联机
+  
 ## 安装
 
 ```bash
