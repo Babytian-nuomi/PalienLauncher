@@ -1,5 +1,7 @@
 # PalienLauncher
 
+**语言**: [English](README.md) | [简体中文](README_zh-CN.md) | [Español](README_es.md)
+
 The PalienLauncher project is developed and maintained by Nuomi from China! The project is a Minecraft third-party launcher!
 
 ## 功能特性
