@@ -3,6 +3,7 @@
 
 **语言**:[English](README.md) | [简体中文](README_zh-CN.md) 
 
+## 介绍
 Palien Launcher是中国开发者：糯米NuoMi开发并维护的新一代Minecraft : Java Edition启动器
 
 ## 功能开发
