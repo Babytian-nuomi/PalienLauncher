@@ -3,10 +3,10 @@
 
 **language**:[English](README.md) | [简体中文](README_zh-CN.md)
 
-The PalienLauncher project is developed and maintained by Nuomi from China! The project is a Minecraft third-party launcher!
+## Introduction
+Palien Launcher is a new generation of Minecraft: Java Edition Launcher developed and maintained by Chinese developer Nuomi!
 
 ## Function Development
-
 - Account function
 - Start Backend
 - Control system
@@ -15,7 +15,6 @@ The PalienLauncher project is developed and maintained by Nuomi from China! The 
 - Mirror Source
   
 ## Install
-
 ```bash
 git clone https://github.com/NuoMi5201314/PalienLauncher.git
 cd PalienLauncher
