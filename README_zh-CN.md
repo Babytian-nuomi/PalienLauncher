@@ -1,7 +1,7 @@
 # PalienLaunche
 
 **Palien Launcher图标**
-![image](https://github.com/user-attachments/assets/deaf6a57-b6f2-49c5-b65a-af62509882ea)
+![palienlauncher](https://github.com/user-attachments/assets/deaf6a57-b6f2-49c5-b65a-af62509882ea)
 
 **语言**:[English](README.md) | [简体中文](README_zh-CN.md) 
 
